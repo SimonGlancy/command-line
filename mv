@@ -1,0 +1,1 @@
+mv moves files between folders taking the filename followed by the destination folder name, if used in the same folder it can be used to rename a file
