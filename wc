@@ -1,0 +1,1 @@
+wc is a word count function that can be used on multiple files returning total number of new lines and total words. a total for the files checked is included.
